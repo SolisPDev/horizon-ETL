@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorizonETL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765c9e3e9b86713c13573e673b2bfa0bade85012")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorizonETL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorizonETL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

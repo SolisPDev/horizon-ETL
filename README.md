@@ -28,7 +28,7 @@ dotnet run
 Contribuir
 
 Siéntete libre de clonar este repositorio y adaptarlo a tus necesidades.
-Si encuentras alguna mejora o bug, ¡envía un Pull Request!
+Si encuentras alguna mejora o bug, ¡envía un Pull Request!!!
 
 Licencia
 Este proyecto está bajo la licencia [MIT].

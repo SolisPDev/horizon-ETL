@@ -12,7 +12,7 @@ public class CsvExtractor
         using var reader = new StreamReader(filePath);
         using var csv = new CsvReader(reader, new CultureInfo("es-MX"));
 
-        // AQUÍ se descarta la primera fila (encabezados) y
+        // AQUÍ se descarta la primera fila (encabezados) y para solo evaluar contenido
         // se mapea a la clase SaleRecord asi independientemente de si estan escritas en mayusculas o minusculas
         csv.Context.RegisterClassMap<SaleRecordMap>();
 
